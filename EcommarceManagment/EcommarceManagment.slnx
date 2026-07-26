@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Application Layer/Application Layer.csproj" />
+  <Project Path="BusinessLogicLayer/BusinessLogicLayer.csproj" />
+  <Project Path="DatabaseLayer/DatabaseLayer.csproj" />
+</Solution>

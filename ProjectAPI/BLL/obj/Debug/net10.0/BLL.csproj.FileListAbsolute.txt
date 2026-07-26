@@ -1,0 +1,15 @@
+C:\CodeSpace\C#\ProjectAPI\BLL\bin\Debug\net10.0\BLL.deps.json
+C:\CodeSpace\C#\ProjectAPI\BLL\bin\Debug\net10.0\BLL.dll
+C:\CodeSpace\C#\ProjectAPI\BLL\bin\Debug\net10.0\BLL.pdb
+C:\CodeSpace\C#\ProjectAPI\BLL\obj\Debug\net10.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeSpace\C#\ProjectAPI\BLL\obj\Debug\net10.0\BLL.AssemblyInfoInputs.cache
+C:\CodeSpace\C#\ProjectAPI\BLL\obj\Debug\net10.0\BLL.AssemblyInfo.cs
+C:\CodeSpace\C#\ProjectAPI\BLL\obj\Debug\net10.0\BLL.csproj.CoreCompileInputs.cache
+C:\CodeSpace\C#\ProjectAPI\BLL\obj\Debug\net10.0\BLL.dll
+C:\CodeSpace\C#\ProjectAPI\BLL\obj\Debug\net10.0\refint\BLL.dll
+C:\CodeSpace\C#\ProjectAPI\BLL\obj\Debug\net10.0\BLL.pdb
+C:\CodeSpace\C#\ProjectAPI\BLL\obj\Debug\net10.0\ref\BLL.dll
+C:\CodeSpace\C#\ProjectAPI\BLL\bin\Debug\net10.0\DBL.dll
+C:\CodeSpace\C#\ProjectAPI\BLL\bin\Debug\net10.0\DBL.pdb
+C:\CodeSpace\C#\ProjectAPI\BLL\obj\Debug\net10.0\BLL.csproj.AssemblyReference.cache
+C:\CodeSpace\C#\ProjectAPI\BLL\obj\Debug\net10.0\BLL.csproj.Up2Date
