@@ -1,0 +1,12 @@
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\bin\Debug\net10.0\JobPortal.Domain.deps.json
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\bin\Debug\net10.0\JobPortal.Domain.dll
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\bin\Debug\net10.0\JobPortal.Domain.pdb
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\obj\Debug\net10.0\JobPortal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\obj\Debug\net10.0\JobPortal.Domain.AssemblyInfoInputs.cache
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\obj\Debug\net10.0\JobPortal.Domain.AssemblyInfo.cs
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\obj\Debug\net10.0\JobPortal.Domain.csproj.CoreCompileInputs.cache
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\obj\Debug\net10.0\JobPortal.Domain.sourcelink.json
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\obj\Debug\net10.0\JobPortal.Domain.dll
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\obj\Debug\net10.0\refint\JobPortal.Domain.dll
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\obj\Debug\net10.0\JobPortal.Domain.pdb
+C:\CodeSpace\C#\JobPortal\src\JobPortal.Domain\obj\Debug\net10.0\ref\JobPortal.Domain.dll
