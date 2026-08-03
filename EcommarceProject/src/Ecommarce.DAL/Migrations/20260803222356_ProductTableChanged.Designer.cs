@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Ecommarce.DAL.Migrations
 {
     [DbContext(typeof(EcommarceDbContext))]
-    [Migration("20260802165830_InitialDB")]
-    partial class InitialDB
+    [Migration("20260803222356_ProductTableChanged")]
+    partial class ProductTableChanged
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -162,6 +162,9 @@ namespace Ecommarce.DAL.Migrations
                 {
                     b.Property<Guid>("ProductId")
                         .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("CategoryId")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<DateTime>("CreatedAt")

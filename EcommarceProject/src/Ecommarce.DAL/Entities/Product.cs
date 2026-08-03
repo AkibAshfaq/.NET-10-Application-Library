@@ -17,6 +17,14 @@ namespace Ecommarce.DAL.Entities
         [Required]
         public decimal Price { get; set; }
         [Required]
+        public Guid CategoryId { get; set; }
+        [Required]
+        public string ImageUrl { get; set; } = "No Image";
+        [Required]
+        public string Brand { get; set; } = "No Brand";
+        [Required]
+        public string Model { get; set; } = "No Model";
+        [Required]
         public int StockQuantity { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.Now;
     }
