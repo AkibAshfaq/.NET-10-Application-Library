@@ -9,14 +9,22 @@ namespace Ecommarce.DAL.Entities
 {
     public class Order
     {
-        [Key]
-        public Guid OrderId { get; set; }
-        [ForeignKey("Customer")]
-        public Guid CustomerId { get; set; }
-        public List<OrderItem> OrderDetails { get; set; } = new List<OrderItem>();
+        public int Id { get; set; }
+        public int CustomerId { get; set; }
+        public Customer Customer { get; set; } = new();
+        public List<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
         public decimal TotalAmount { get; set; }
-        public string Status { get; set; } = "Pending";
-        public virtual required Customer Customer { get; set; }
+        public OrderStatus Status { get; set; } = OrderStatus.Pending;
         public DateTime CreatedAt { get; set; } = DateTime.Now;
+        public DateTime? ShippedAt { get; set; }
+    }
+
+    public enum OrderStatus
+    {
+        Pending,
+        Processing,
+        Shipped,
+        Delivered,
+        Cancelled
     }
 }

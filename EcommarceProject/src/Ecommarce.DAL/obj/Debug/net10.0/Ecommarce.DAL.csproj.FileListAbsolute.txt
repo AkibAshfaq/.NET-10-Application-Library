@@ -1,12 +1,12 @@
+C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\bin\Debug\net10.0\Ecommarce.DAL.deps.json
+C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\bin\Debug\net10.0\Ecommarce.DAL.dll
+C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\bin\Debug\net10.0\Ecommarce.DAL.pdb
 C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\obj\Debug\net10.0\Ecommarce.DAL.csproj.AssemblyReference.cache
 C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\obj\Debug\net10.0\Ecommarce.DAL.GeneratedMSBuildEditorConfig.editorconfig
 C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\obj\Debug\net10.0\Ecommarce.DAL.AssemblyInfoInputs.cache
 C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\obj\Debug\net10.0\Ecommarce.DAL.AssemblyInfo.cs
 C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\obj\Debug\net10.0\Ecommarce.DAL.csproj.CoreCompileInputs.cache
 C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\obj\Debug\net10.0\Ecommarce.DAL.sourcelink.json
-C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\bin\Debug\net10.0\Ecommarce.DAL.deps.json
-C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\bin\Debug\net10.0\Ecommarce.DAL.dll
-C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\bin\Debug\net10.0\Ecommarce.DAL.pdb
 C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\obj\Debug\net10.0\Ecommarce.DAL.dll
 C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\obj\Debug\net10.0\refint\Ecommarce.DAL.dll
 C:\CodeSpace\C#\EcommarceProject\src\Ecommarce.DAL\obj\Debug\net10.0\Ecommarce.DAL.pdb

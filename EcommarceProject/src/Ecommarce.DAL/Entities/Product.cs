@@ -8,24 +8,14 @@ namespace Ecommarce.DAL.Entities
 {
     public class Product
     {
-        [Key]
-        public Guid ProductId { get; set; }
-        [Required]
+        
+        public int Id { get; set; }
         public string Name { get; set; }= "Product Name";
-        [Required]
         public string Description { get; set; } = "No Product Description";
-        [Required]
         public decimal Price { get; set; }
-        [Required]
-        public Guid CategoryId { get; set; }
-        [Required]
-        public string ImageUrl { get; set; } = "No Image";
-        [Required]
-        public string Brand { get; set; } = "No Brand";
-        [Required]
-        public string Model { get; set; } = "No Model";
-        [Required]
         public int StockQuantity { get; set; }
+        public int CategoryId { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.Now;
+        public Category Category { get; set; } = new();
     }
 }

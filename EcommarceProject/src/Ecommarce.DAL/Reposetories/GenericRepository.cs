@@ -39,14 +39,12 @@ namespace Ecommarce.DAL.Repositories
         public Task Update(T entity)
         {
             _dbSet.Update(entity);
-            _context.SaveChanges();
             return Task.CompletedTask;
         }
         
         public Task Delete(T entity)
         {
             _dbSet.Remove(entity);
-            _context.SaveChanges();
             return Task.CompletedTask;
         }
     }

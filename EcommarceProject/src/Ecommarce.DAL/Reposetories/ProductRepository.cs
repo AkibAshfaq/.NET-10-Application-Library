@@ -14,7 +14,7 @@ namespace Ecommarce.DAL.Reposetories
     {
         public ProductRepository(EcommarceDbContext context) : base(context) {}
 
-        public async Task<IEnumerable<Product>> GetByCategoryAsync(Guid categoryId)
+        public async Task<IEnumerable<Product>> GetByCategoryAsync(int categoryId)
         {
             List<Product> products = await _dbSet.Where(p => p.CategoryId == categoryId).ToListAsync();
             return products;

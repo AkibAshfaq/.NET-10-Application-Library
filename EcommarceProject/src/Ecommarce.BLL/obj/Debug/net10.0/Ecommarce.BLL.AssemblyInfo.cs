@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecommarce.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b151f870cfd2fff94ceefc5f6d855d65c2b49451")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+778deecd42793614331208ad47bd2ce5dca0794d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecommarce.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecommarce.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,12 +9,12 @@ namespace Ecommarce.DAL.Entities
 {
     public class OrderItem
     {
-        [Key]
-        public Guid OrderDetailsId { get; set; }
-        [ForeignKey("Product")]
-        public Guid ProductId { get; set; }
+        public int Id { get; set; }
+        public int ProductId { get; set; }
+        public Product Product { get; set; }=new();
+        public int OrderId { get; set; }
+        public Order Order { get; set; }=new();
         public int Quantity { get; set; }
         public decimal UnitPrice { get; set; }
-        public virtual required Product Product { get; set; }
     }
 }

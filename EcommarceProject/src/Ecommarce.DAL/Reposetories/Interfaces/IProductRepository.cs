@@ -8,7 +8,7 @@ namespace Ecommarce.DAL.Repositories.Interfaces
 {
     public interface IProductRepository : IGenericRepository<Product>
     {
-        Task<IEnumerable<Product>> GetByCategoryAsync(Guid categoryId);
+        Task<IEnumerable<Product>> GetByCategoryAsync(int categoryId);
         Task<IEnumerable<Product>> SearchByNameAsync(string name);
     }
 }
